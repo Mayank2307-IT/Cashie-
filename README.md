@@ -1,1 +1,2 @@
-# Cashie-
+# Cashie
+Training Project
